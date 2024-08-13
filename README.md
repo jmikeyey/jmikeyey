@@ -1,6 +1,6 @@
 ## Hi, I'm John Micky Butnande! 👋
 
-🚀 Aspiring Full Stack Developer with 2 years of academic experience in web development and freelancing<br/>
+🚀 Aspiring Full Stack Developer with 1 year of academic experience in web development and freelancing<br/>
 🎥 Sharing my journey and tips on web development, freelancing, and tech trends on YouTube<br/>
 
 
