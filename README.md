@@ -4,10 +4,10 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/zues147/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmickybutnande) <br/>
-<a href="https://www.linkedin.com/in/jmickybutnande" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #0077b5; text-align: center; border-radius: 5px; text-decoration: none;">
-  Let's Connect
-</a>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/zues147/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmickybutnande) <br/><br/>
+<kbd> <br> 
+[![Let's Connect](https://img.shields.io/badge/Let's_Connect-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmickybutnande) <br> </kbd>
+
 
 ## 💻 Tech Stack:
 
