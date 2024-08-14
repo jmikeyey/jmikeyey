@@ -4,9 +4,7 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/zues147/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmickybutnande) <br/><br/>
-<kbd> <br> 
-[![Let's Connect](https://img.shields.io/badge/Let's_Connect-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmickybutnande) <br> </kbd>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/zues147/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmickybutnande)
 
 
 ## 💻 Tech Stack:
@@ -22,6 +20,8 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=jmikeyey&label=Profile%20Views&icon=6&pretty=true" />
 </a>
+<kbd> <br> 
+[![Let's Connect](https://img.shields.io/badge/Let's_Connect-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmickybutnande) <br> </kbd>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
