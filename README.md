@@ -17,11 +17,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmikeyey&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=jmikeyey&label=Profile%20Views&icon=6&pretty=true" />
-</a>
+
+[![](https://visitcount.itsvg.in/api?id=jmikeyey&label=Profile%20Views&icon=6&pretty=true)](https://visitcount.itsvg.in) <br/>
 <kbd> <br> 
 [![Let's Connect](https://img.shields.io/badge/Let's_Connect-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmickybutnande) <br> </kbd>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
