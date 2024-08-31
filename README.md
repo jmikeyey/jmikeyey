@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=435&height=70&lines=Hello%2C+I'm+John+Micky+Butnande;an+Aspiring+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=499&color=A0F796&multiline=true&width=435&height=70&lines=Hello%2C+I'm+John+Micky+Butnande;an+Aspiring+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🚀 Aspiring Full Stack Web Developer with 1 year of academic experience in web development and freelancing<br>
