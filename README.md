@@ -1,10 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=499&color=A0F796&multiline=true&width=435&height=70&lines=Hello%2C+I'm+John+Micky+Butnande;an+Aspiring+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-# 💫 About Me:
-🚀 Aspiring Full Stack Web Developer with 1 year of academic experience in web development and freelancing<br>
-🔭 Currently focusing on backend development, API integration, and code testing.
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/zues147/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hmmikey/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jmickybutnande/) 
 
